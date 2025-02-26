@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ghubant2002
+- 👀 I’m interested in Website Design
+- 🌱 I’m currently persuing Web Design & Development at Arena Animation Chowringhee
+- 📫 How to reach me mail id - antarak2002@gmail.com
+- 😄 Pronouns: She/Her
+- ✍🏻 Love to learn code
