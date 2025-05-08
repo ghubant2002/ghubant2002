@@ -2,7 +2,6 @@
 #### Frontend Web Developer
 ![Frontend Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFOJWuJ5bCTVg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739118978170?e=1752105600&v=beta&t=HhX4piY9xp9i2-1iyrSVbazRx4aMRoTh4cgXIGDK9u8)
 
-profile info
 I am Antara Karmakar, currently a student persuing Graphics Web Design & Web Development(GWDD) course at Arena Animation Chowringhee. Being a dedicated and hardworking individual, I am always eager to learn new skills. Currently, I am exploring modern frameworks to push the boundaries of what I can build, to grow as a developer.
 
 Skills: HTML / CSS / BOOTSTRAP / BASIC JS / WORDPRESS
@@ -26,5 +25,4 @@ Skills: HTML / CSS / BOOTSTRAP / BASIC JS / WORDPRESS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghubant2002&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ghubant2002)  
-
 
