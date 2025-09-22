@@ -10,7 +10,7 @@ Skills: HTML / CSS / BOOTSTRAP / BASIC JS / WORDPRESS
 - 🌱 I’m currently learning Tailwind CSS 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: antarak2002@gmail.com or www.linkedin.com/in/antarakarmakar 
-- 😄 Pronouns: Web Designer 
+- 😄 Pronouns: Frontend Developer 
 - ⚡ Fun fact: I still think printf("Hello, world!"); is peak poetry. 
 
 
