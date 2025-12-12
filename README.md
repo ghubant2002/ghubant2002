@@ -18,11 +18,4 @@ Skills: HTML / CSS / BOOTSTRAP / JAVASCRIPT / WORDPRESS
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghubant2002)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghubant2002)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghubant2002&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ghubant2002)  
 
