@@ -2,7 +2,7 @@
 #### Frontend Web Developer
 
 
-I am Antara Karmakar, and I have recently completed Graphics Web Design & Web Development(GWDD) course at Arena Animation Chowringhee. Being a dedicated and hardworking individual, I am always eager to learn new skills. Currently, I am exploring modern frameworks to push the boundaries of what I can build, to grow as a developer.
+Results driven Frontend Developer with a strong foundation in web development standards. Skilled in HTML, CSS, Bootstrap, JavaScript, and WordPress with hands-on-experience in building responsive interfaces through academic projects.
 
 Skills: HTML / CSS / BOOTSTRAP / JAVASCRIPT / WORDPRESS
 
