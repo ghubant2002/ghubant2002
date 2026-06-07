@@ -6,8 +6,8 @@ Results driven Frontend Developer with a strong foundation in web development st
 
 Skills: HTML / CSS / BOOTSTRAP / JAVASCRIPT / WORDPRESS
 
-- 🔭 I’m currently working on Expanding my skills as a Frontend developer 
-- 🌱 I’m currently learning Tailwind CSS 
+- 🔭 I’m currently extending my skills by learning cloud 
+- 🌱 I’m currently learning AWS Cloud 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: antarak2002@gmail.com or www.linkedin.com/in/antarakarmakar 
 - 😄 Pronouns: Frontend Developer 
